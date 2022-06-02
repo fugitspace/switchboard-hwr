@@ -5,7 +5,7 @@ South==1.0.2
 django-ajax-selects==1.7.0
 docutils==0.12
 gunicorn==19.9.0
-html5lib==0.999
+html5lib==0.99999999
 httplib2==0.8
 keyring==3.5
 oauth==1.0.1
