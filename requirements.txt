@@ -24,7 +24,7 @@ pycrypto==2.6.1
 pycurl==7.19.3
 pyflakes==1.2.0
 python-dateutil==1.5
-reportlab==3.0
+reportlab==3.5.55
 requests==2.2.1
 simplejson==3.3.1
 six==1.5.2
